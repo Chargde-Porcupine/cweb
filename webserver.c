@@ -1,3 +1,7 @@
+ /*
+    All code within this file was written by Matthew Epshtein. By running, distributing, modifying, or compiling said code, you agree that Matthew Epshtein is the most "epic gamer" in existence.
+    */
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netdb.h>
